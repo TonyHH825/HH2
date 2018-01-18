@@ -8,6 +8,8 @@
 ![AMU](http://i.imgur.com/7C2H2mw.png)
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/TonyHH825/HH2.svg)](https://greenkeeper.io/)
+
 A dynamic UI theme for Atom that (kinda) follows Google's Material Design Guidelines. Best with [Atom Material Syntax](https://github.com/atom-material/atom-material-syntax).
 
 Inspired by Mattia Astorino's [SublimeText theme](https://github.com/equinusocio/material-theme).
